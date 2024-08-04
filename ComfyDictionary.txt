@@ -1,0 +1,529 @@
+natural lighting
+flat lighting
+back-light
+side light
+side light
+soft light
+soft lighting
+hard light
+Natural illumination lighting
+Flat illumination lighting
+Back-lit illumination lighting
+Side-lit illumination lighting
+Soft illumination lighting
+Soft lighting
+Hard illumination lighting
+Rim illumination lighting
+Loop illumination lighting
+Broad illumination lighting
+Short illumination lighting
+Split illumination lighting
+Key illumination lighting
+Hair illumination lighting
+Waning illumination lighting
+Spot illumination lighting
+Cinematic illumination lighting
+Moody illumination lighting
+Specular illumination lighting
+Volumetric illumination lighting
+Dramatic illumination lighting
+Studio illumination lighting
+Reflected illumination lighting
+Direct illumination lighting
+Indirect illumination lighting
+Side illumination lighting
+Sun rays illumination lighting
+Nostalgic illumination lighting
+Lens flare illumination lighting
+Light caustics illumination lighting
+Motion blur illumination lighting
+Bloom light illumination lighting
+Black illumination lighting
+Gel illumination lighting
+Color illumination lighting
+Moon illumination lighting
+Moonlight illumination lighting
+Sunlight illumination lighting
+Accent illumination lighting
+Rembrandt illumination lighting
+Candle illumination lighting
+Beautifully illuminated
+Ethereal illumination lighting
+Starlight illumination lighting
+Neon illumination lighting
+Light and shadow illumination lighting
+Dramatic spot illumination lighting
+Cold illumination lighting
+Warm illumination lighting
+Ambient illumination lighting
+rim light
+loop lighting
+broad lighting
+short lighting
+split lighting
+key light
+hair light
+waning light
+spotlit
+spotlight
+cinematic lighting
+moody lighting
+specular lighting
+volumetric lighting
+dramatic lighting
+studio lighting
+Reflected light
+Direct light
+Indirect light
+Side lighting
+Sun Ray lighting
+Nostalgic lighting
+Lens Flare lighting
+Light caustics
+Motion blur lighting
+Bloom light
+Black lighting
+Gel lighting
+Moonlit
+Moonlight
+Sunlight
+Accent lighting
+Rembrandt lighting
+Candle light
+Beautifully Lighting
+Ethereal Lighting
+Starlight
+Neon Light
+Light and shadow plays
+Dramatic spotlight
+Cold Lighting
+Warm lighting
+Ambient lighting
+
+
+
+
+
+Aerial view shot
+Angle from above
+Angle from below
+Birds-eye view shot
+Body shot
+Cinematic shot
+Close-up shot
+Dolly zoom
+Dutch angle shot
+Establishing shot
+Extreme close-up shot
+Extreme wide shot
+Eye-level shot
+Fashion shot
+Full body shot
+Full length frame
+Full shot
+Ground level shot
+High angle shot
+High exposure
+Hip level shot
+Knee level shot
+Landscape
+Long exposure
+Long shot
+Low angle shot
+Medium close-up shot
+Medium shot
+Medium wide shot
+Modelshoot style shot
+Over the shoulder shot
+Overhead angle
+POV shot
+Portrait
+Professionally shot
+Profile
+Rear angle
+Selfie
+Selfie shot angle
+Sharp focus
+Shot from behind
+Street level shot
+Studio shot
+aerial shot
+angle from above
+angle from below
+arm at side
+arm support
+arms behind back
+birds-eye-view shot
+body shot
+cinematic shot
+claw pose
+close-up shot
+establishing shot
+extreme close-up shot
+extreme wide shot
+eye-level shot
+full body shot
+full shot
+ground level shot
+high angle shot
+hip level shot
+index finger raised
+knee level shot
+long shot
+looking afar shot
+looking ahead shot
+looking at another shot
+looking at viewer shot
+looking away shot
+looking down shot
+looking to the side
+looking up shot
+looking up to shot
+low angle shot
+medium close-up shot
+medium shot
+medium wide shot
+modelshoot style shot
+over the shoulder shot
+overhead angle shot
+own hands together
+paw pose shot
+pray hand on hip shot
+professionally shot
+profile shot
+rear angle shot
+selfie shot
+selfie shot angle
+shot from behind
+shot from side
+shoulder-level shot
+side view shot
+side-profile shot
+soft focus shot
+telephoto shot
+top-down view shot
+two shot angle shot
+upper body shot
+wide angle shot
+wide shot
+zoomed out shot
+
+
+
+
+
+High quality
+lots of details
+Magic
+Realism
+4k
+detailed
+beautiful
+professional
+sharp
+masterpiece
+Ultra
+photo
+hyperdetailed
+professional studio quality
+Best quality
+Fine art
+8k
+36k
+intricate
+
+
+
+
+1000 yard stare
+Alert and bug eyed
+Angry
+Beaming with joy
+Blinking
+Blinking rapidly
+Blowing a kiss
+Blowing a raspberry
+Bobbing head
+Bored
+Chuckling
+Clenching fists
+Clenching jaw
+Confused
+Contemplative
+Covering mouth while yawning
+Crossing arms
+Crossing fingers
+Crossing legs
+Crying
+Daydreaming
+Embracing
+Enraged
+Flashing a V-for-victory sign
+Flashing a devil horns sign
+Flashing a heavy metal hand sign
+Flashing a peace sign
+Flashing a victory hand gesture
+Forming a heart with hands
+Frowning
+Frowning with concentration
+Furious
+Gasping
+Gazing dreamily
+Gesturing
+Giggling
+Giving a bear hug
+Giving a double peace sign
+Giving a double thumbs-up
+Giving a fist bump
+Giving a friendly wave
+Giving a high five
+Giving a military salute
+Giving a peace out sign
+Giving a thumbs-down with disapproval
+Giving a thumbs-up with a smile
+Giving a thumbs-up with enthusiasm
+Giving thumbs down
+Giving thumbs up
+Glancing downward
+Glancing sideways with suspicion
+Glancing to the left
+Glancing to the right
+Glancing upward
+Grinning
+Holding hands
+Holding hands tightly
+Holding up a V-sign
+Holding up a chalice
+Holding up a crescent moon
+Holding up a cross
+Holding up a devil horns sign
+Holding up a full moon
+Holding up a heart sign
+Holding up a holy grail
+Holding up a love heart
+Holding up a menorah
+Holding up a peace sign
+Holding up a pentagram
+Holding up a rock and roll sign
+Holding up a shaka sign
+Holding up a sign of love
+Holding up a smiley face
+Holding up a smiling face
+Holding up a star of David
+Holding up a sun
+Holding up a symbol of harmony
+Holding up a triquetra
+Holding up a victory sign
+Holding up a yin and yang symbol
+Holding up a yin-yang
+Holding up an ankh
+Holding up an infinity symbol
+Hugging
+Indifferent
+Joining hands in prayer
+Kissing
+Laughing
+Lifting shoulders in a shrug
+Linking arms
+Looking away
+Looking down
+Looking left
+Looking right
+Looking up
+Lost in thought
+Making a finger heart
+Making a heart shape with fingers
+Making a heart sign
+Making a mini heart
+Making a peace sign
+Making a playful face
+Making a prayer gesture
+Making a rock and roll sign
+Making a sarcastic face
+Making a snide face
+Making a waving gesture
+Nodding
+Nodding in agreement
+Opening mouth in surprise
+Peeking over the shoulder
+Peeking to the left
+Peeking to the right
+Pointing
+Poking out tongue cheekily
+Pouting
+Pouting in displeasure
+Pouting in thought
+Pouting lips
+Praying
+Pursing lips
+Puzzled
+Raising eyebrows
+Reflective
+Rolling eyes
+Rolling eyes in exasperation
+Rolling one's eyes dramatically
+Rubbing chin thoughtfully
+Saluting
+Saluting with respect
+Sarcastic
+Scared
+Scowling
+Scratching head in confusion
+Sending a wink
+Shaking head
+Shaking head in amusement
+Shaking head in disbelief
+Shedding tears
+Shooting a glance to the side
+Showing a thumbs-up and smile
+Showing an okay sign
+Shrugging
+Sighing with boredom
+Smiling
+Smiling mischievously
+Smirking
+Sobbing
+Squinting
+Staring blankly
+Staring into space
+Sticking out tongue
+Sticking out tongue in defiance
+Sticking out tongue playfully
+Stifling a yawn
+Stroking chin thoughtfully
+Surprised
+Thoughtful
+Trembling with fear
+Waving
+Waving hands
+Wide-eyed with curiosity
+Wide-eyed with surprise
+Widening eyes in fear
+Winking
+Winking mischievously
+Winking playfully
+Yawning
+Zoned out
+glaring off to the side
+playful
+
+
+
+
+Beautiful Purple and pink clouds as the sun sets
+Beautiful pink and orange clouds as the sun sets
+Calm sky with sailboats on the horizon
+Clear blue sky
+Clear blue sky with a bright sun
+Clear blue sky with a bright sun and a halo
+Clear blue sky with a bright sun and a halo and a warm orange glow
+Clear blue sky with a fluffy cloud
+Clear desert sky
+Clear desert sky with a bright star cluster
+Clear desert sky with a bright star shining brightly
+Clear desert sky with a bright star shining brightly and a halo
+Clear desert sky with a bright star shining brightly and a warm orange glow
+Clear desert sky with a bright star visible
+Clear sky with a few fluffy white clouds
+Clear sky with a few fluffy white clouds and a blue sky
+Clear sky with a few wispy white clouds
+Clear sky with a few wispy white clouds and a blue sky
+Clear sky with a field of wildflowers
+Clear sky with a flock of birds flying overhead
+Clear sky with a lone bird flying overhead
+Clear sky with a single white cloud
+Clear sky with a single white cloud with a tail
+Clear sky with a single white cloud with a tail and a halo
+Clear sky with a single white cloud with a tail and a warm orange glow
+Clear sky with birds flying
+Double rainbow arcing across the sky
+Double rainbow arcing over a clear blue sky
+Double rainbow arcing over a clear blue sky with a tail
+Double rainbow arcing over a clear blue sky with a tail and a warm orange glow
+Foggy sky
+Foggy sky with a low-lying fog
+Heavy rain clouds with hail
+Heavy rain clouds with lightning
+Majestic mountains with a clear blue sky
+Majestic mountains with a clear blue sky and white clouds
+Majestic sky with a full moon
+Majestic sky with a mountain range in the background
+Misty mountains with a soft hazy sky
+Misty mountains with a soft hazy sky and a warm orange glow
+Misty sky with a soft pink glow
+Misty sky with a soft pink glow and white clouds
+Night sky with a crescent moon
+Night sky with a crescent moon and a starry background
+Night sky with a crescent moon and a starry background and a warm orange glow
+Night sky with a full moon and stars
+Night sky with a full moon and stars and white clouds
+Night sky with the Milky Way visible
+Night sky with vibrant aurora borealis
+Night sky with vibrant aurora borealis and a starry background
+Night sky with vibrant aurora borealis and a starry background and a warm orange glow
+Overcast sky
+Overcast sky with a light drizzle
+Rainbow after a rain shower
+Serene sky with a field of tall grasses
+Serene sky with a field of wildflowers
+Serene sky with a fluffy white cloud
+Serene sky with a lone tree in the foreground
+Serene sky with a small waterfall in the distance
+Serene sky with wispy white clouds
+Snowy sky
+Snowy sky with a single snowflake
+Starry night sky
+Starry night sky with a crescent moon
+Starry night sky with a crescent moon and stars
+Starry night sky with a crescent moon and stars and white clouds
+Starry night sky with a full moon and a halo
+Starry night sky with a full moon and a halo and a shooting star trail
+Starry night sky with a full moon and a halo and a warm orange glow
+Starry night sky with a full moon and a halo and a warm orange glow and a shooting star trail
+Starry night sky with a shooting star trail
+Starry night sky with shooting stars
+Starry sky with a full moon
+Stormy sky with dark clouds
+Stormy sky with dark swirling clouds
+Stormy sky with dark swirling clouds and lightning
+Stormy sky with dark thunderheads
+Stormy sky with dark thunderheads and lightning
+Stormy sky with dark thunderheads and lightning and a warm orange glow
+Sunrise sky with a halo around the sun
+Sunrise sky with a halo around the sun and a warm orange glow
+Sunrise sky with a halo around the sun and a warm orange glow and a starry background
+Sunrise sky with a warm orange and pink hues
+Sunrise sky with a warm orange and pink hues and white clouds
+Sunrise sky with a warm orange hue
+Sunrise sky with clouds painted in gold and pink hues
+Sunrise sky with mountain silhouettes
+Sunrise sky with streaks of pink and orange
+Sunrise sky with streaks of pink and orange and a halo
+Sunrise sky with streaks of pink and orange and a halo and a warm orange glow
+Sunrise sky with streaks of pink and orange and a warm orange glow and a halo
+Sunset sky reflected in a calm lake with a mirror-like surface
+Sunset sky reflected in a calm lake with a mirror-like surface and a warm orange glow
+Sunset sky reflected in a still lake
+Sunset sky with a deep red glow
+Sunset sky with a fiery orange and red color
+Sunset sky with a fiery orange and red color and a halo
+Sunset sky with a fiery orange and red color and a warm orange glow and a starry background
+Sunset sky with a fiery orange and red color and white clouds
+Sunset sky with colorful clouds
+Sunset sky with fiery orange and purple colors
+Thunderstorm clouds with flashes of lightning
+Tranquil sky with a light breeze blowing
+Tranquil sky with a light rain falling
+Tropical storm clouds with heavy rain and strong winds
+Tropical storm clouds with heavy rain and strong winds and a warm orange glow
+Twilight sky
+Twilight sky with a warm orange glow
+Vast sky with a lone bird flying high
+Vast sky with a lone bird soaring high
+Vibrant sky with a rainbow
+Vibrant sky with a sunrise and a full moon
+Vibrant sky with a sunset and a full moon
+
+
+
+
