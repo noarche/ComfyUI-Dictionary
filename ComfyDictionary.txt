@@ -10,7 +10,6 @@ Flat illumination lighting
 Back-lit illumination lighting
 Side-lit illumination lighting
 Soft illumination lighting
-Soft lighting
 Hard illumination lighting
 Rim illumination lighting
 Loop illumination lighting
