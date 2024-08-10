@@ -2,7 +2,6 @@ natural lighting
 flat lighting
 back-light
 side light
-side light
 soft light
 soft lighting
 hard light
@@ -99,10 +98,6 @@ Dramatic spotlight
 Cold Lighting
 Warm lighting
 Ambient lighting
-
-
-
-
 
 Aerial view shot
 Angle from above
@@ -207,11 +202,6 @@ upper body shot
 wide angle shot
 wide shot
 zoomed out shot
-
-
-
-
-
 High quality
 lots of details
 Magic
@@ -231,10 +221,6 @@ Fine art
 8k
 36k
 intricate
-
-
-
-
 1000 yard stare
 Alert and bug eyed
 Angry
@@ -406,10 +392,6 @@ Yawning
 Zoned out
 glaring off to the side
 playful
-
-
-
-
 Beautiful Purple and pink clouds as the sun sets
 Beautiful pink and orange clouds as the sun sets
 Calm sky with sailboats on the horizon
@@ -523,10 +505,6 @@ Vast sky with a lone bird soaring high
 Vibrant sky with a rainbow
 Vibrant sky with a sunrise and a full moon
 Vibrant sky with a sunset and a full moon
-
-
-
-
 Back view
 Back view Low angle
 Back view full-body
@@ -536,7 +514,6 @@ Back view full-body seen from below
 Back view seen from above
 Back view seen from below
 Close-up
-Establishing shot
 Extreme close-up
 Front view
 Front view Low angle
@@ -550,14 +527,10 @@ Front view medium full shot seen from above
 Front view medium full shot seen from below
 Front view seen from above
 Front view seen from below
-Full body shot
-Full shot
 High angle view
-Long shot
 Low angle view
 Medium close-up
 Medium full shot
-Medium shot
 Overhead shot view
 Seen from above view
 Seen from behind
@@ -610,7 +583,6 @@ back view medium shot seen from below
 back view seen from above
 back view seen from below
 close-up
-establishing shot
 extreme close-up
 front view
 front view Low angle
@@ -644,14 +616,10 @@ front view medium shot seen from above
 front view medium shot seen from below
 front view seen from above
 front view seen from below
-full body shot
-full shot
 high angle view
-long shot
 low angle view
 medium close-up
 medium full shot
-medium shot
 overhead shot view
 seen from above view
 seen from behind
@@ -691,10 +659,4 @@ side view seen from above
 side view seen from below
 straight on view
 top down view
-upper body shot
 wide angle view
-
-
-
-
-
